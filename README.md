@@ -1,3 +1,3 @@
 # LearnWebhookTest
 
-A practice on how to setup a webhook for a Github repository.
+An exercise from Microsoft Learn (Azure) on how to setup a webhook for a Github repository.
